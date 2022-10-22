@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWy374JE8Xhl6ngTAskagFiD6JzSr78NQD1tvK38Q8aSoZN6czsCqz2WBsJ2YJcZvX04vyNJVSsiaMsAlOw1RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\directone.app.poc\\DirectOne.App.Poc\\DirectOne.App.Poc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.api.gax\\3.4.0\\google.api.gax.3.4.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.api.gax.rest\\3.4.0\\google.api.gax.rest.3.4.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis\\1.54.0\\google.apis.1.54.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis.auth\\1.54.0\\google.apis.auth.1.54.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis.bigquery.v2\\1.54.0.2397\\google.apis.bigquery.v2.1.54.0.2397.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis.core\\1.54.0\\google.apis.core.1.54.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.cloud.bigquery.v2\\2.3.0\\google.cloud.bigquery.v2.2.3.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

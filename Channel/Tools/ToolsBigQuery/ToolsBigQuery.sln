@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlterTable", "AlterTable\AlterTable.csproj", "{74FFD56A-52A6-4693-942F-91354193FF1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTableV2", "CreateTableV2\CreateTableV2.csproj", "{F114EE91-A448-4602-BC1C-FA65961EE777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FFD56A-52A6-4693-942F-91354193FF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FFD56A-52A6-4693-942F-91354193FF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FFD56A-52A6-4693-942F-91354193FF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FFD56A-52A6-4693-942F-91354193FF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F114EE91-A448-4602-BC1C-FA65961EE777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F114EE91-A448-4602-BC1C-FA65961EE777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F114EE91-A448-4602-BC1C-FA65961EE777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F114EE91-A448-4602-BC1C-FA65961EE777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2E8B5E-A037-4728-AF44-D599CC04E9CA}
+	EndGlobalSection
+EndGlobal

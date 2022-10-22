@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectOne.App.Poc", "DirectOne.App.Poc\DirectOne.App.Poc.csproj", "{8DEFA73F-BF45-4B2A-AA19-EA54F4F35F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEFA73F-BF45-4B2A-AA19-EA54F4F35F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEFA73F-BF45-4B2A-AA19-EA54F4F35F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEFA73F-BF45-4B2A-AA19-EA54F4F35F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEFA73F-BF45-4B2A-AA19-EA54F4F35F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30D3091-8B00-4DD0-83DB-8C1B65A96FB8}
+	EndGlobalSection
+EndGlobal

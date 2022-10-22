@@ -1,0 +1,153 @@
+{
+	"info": {
+		"_postman_id": "a2c22fd5-1f8a-45a9-85c2-4e023df91c8e",
+		"name": "Report Export",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14468432"
+	},
+	"item": [
+		{
+			"name": "Get templateId",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "tenantId",
+						"value": "5d70095798e9184bc878701f",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{url-report-export}}/api/v1/template/xZg1XGgHkrinqDSwAc4w",
+					"host": [
+						"{{url-report-export}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"template",
+						"xZg1XGgHkrinqDSwAc4w"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Start Report",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "TenantId",
+						"value": "569e5d2abb1d347d4b237caf",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"templateId\": \"RXOfNHlH3A4MMgk2N9Dx\",\r\n    \"destination\": \"fmoraes@d1.cx\",\r\n    \"start\": \"2022-02-02\",\r\n    \"end\": \"2022-05-09\",\r\n    \"requesterName\": \"Fabio Moraes\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url-report-export}}/api/v1/ReportExport",
+					"host": [
+						"{{url-report-export}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"ReportExport"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Start Report v2",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "TenantId",
+						"value": "5524151a19a226aab39c24e3",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"templateId\": \"9SHhPuVhPYWSd4RSFlPc\",\r\n    \"destination\": \"fmoraes@d1.cx\",\r\n    \"start\": \"2022-01-01\",\r\n    \"end\": \"2022-03-24\",\r\n    \"requesterName\": \"Fabio Moraes\",\r\n    \"interactions\": [],\r\n    \"channels\": [\"Sms\", \"Email\"],\r\n    \"clientData\" : {\r\n            \"customerId\" : true,\r\n            \"customerName\" : false,\r\n            \"customerIdentification\" : false,\r\n            \"userEmail\" : true,\r\n            \"documentNumber\" : true\r\n        }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/api/v1/ReportExport",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"v1",
+						"ReportExport"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "tenantId",
+						"value": "5bc4ea640829721260d165cc",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/api/v1/ReportExport/Pxkb7FQcuVKe3rI00po7",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"v1",
+						"ReportExport",
+						"Pxkb7FQcuVKe3rI00po7"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "5bc4ea640829721260d165cc",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

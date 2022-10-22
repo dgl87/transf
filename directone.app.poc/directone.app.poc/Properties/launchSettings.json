@@ -1,0 +1,61 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:52491",
+      "sslPort": 44331
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "JOURNEY_RATE_DW": "journey_rate_dw",
+        "GOOGLE_APPLICATION_CREDENTIALS": "$(D1_GCP_CREDENTIALS_FOLDER)\\journey-homepages-prod-e34d8dec268d.json",
+        "JOURNEY_EVENT_DATABASE": "journey-event-process-prod",
+        "RougueOneKeyVaultUrl": "https://do-ant-dev.vault.azure.net/",
+        "REGION": "us-east4",
+        "PROJECT_ID": "journey-homepages-dev",
+        "JOURNEY_EVENT_DATASET_NAME": "mst",
+        "TABLE_V2": "journey_event_v2",
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    },
+    "directone.app.api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "JOURNEY_RATE_DW": "journey_rate_dw",
+        "GOOGLE_APPLICATION_CREDENTIALS": "$(D1_GCP_CREDENTIALS_FOLDER)\\journey-homepages-prod-e34d8dec268d.json",
+        "JOURNEY_EVENT_DATABASE": "journey-event-process-prod",
+        "RougueOneKeyVaultUrl": "https://do-ant-prd.vault.azure.net/",
+        "REGION": "us-east4",
+        "PROJECT_ID": "journey-homepages-prod",
+        "JOURNEY_EVENT_DATASET_NAME": "mst",
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {
+        "JOURNEY_RATE_DW": "journey_rate_dw",
+        "GOOGLE_APPLICATION_CREDENTIALS": "/credentials/journey-homepages-prod-e34d8dec268d.json",
+        "JOURNEY_EVENT_DATABASE": "journey-event-process-prod",
+        "RougueOneKeyVaultUrl": "https://do-ant-dev.vault.azure.net/",
+        "REGION": "us-east4",
+        "PROJECT_ID": "journey-homepages-prod",
+        "JOURNEY_EVENT_DATASET_NAME": "mst",
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "publishAllPorts": true,
+      "httpPort": 59850,
+      "useSSL": true,
+      "sslPort": 44358
+    }
+  }
+}

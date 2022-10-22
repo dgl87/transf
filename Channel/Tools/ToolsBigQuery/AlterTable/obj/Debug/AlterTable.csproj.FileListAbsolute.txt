@@ -1,0 +1,91 @@
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.exe.config
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.exe
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Bigquery.v2.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Bigquery.v2.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Core.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Cloud.BigQuery.V2.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Cloud.BigQuery.V2.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.ValueTuple.dll
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.CopyComplete
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.exe
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.pdb
+C:\Users\Douglas\Desktop\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.exe.config
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.exe
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Bigquery.v2.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Bigquery.v2.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Core.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Cloud.BigQuery.V2.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Cloud.BigQuery.V2.pdb
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.ValueTuple.dll
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.CopyComplete
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.exe
+C:\Users\Douglas\Desktop\My Docs\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.AssemblyReference.cache
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.CoreCompileInputs.cache
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.exe
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.exe.config
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.exe
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\AlterTable.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Auth.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Bigquery.v2.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Bigquery.v2.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Core.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Apis.Core.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Cloud.BigQuery.V2.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Google.Cloud.BigQuery.V2.pdb
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\bin\Debug\System.ValueTuple.dll
+C:\Projetos\Channel\Tools\ToolsBigQuery\AlterTable\obj\Debug\AlterTable.csproj.CopyComplete

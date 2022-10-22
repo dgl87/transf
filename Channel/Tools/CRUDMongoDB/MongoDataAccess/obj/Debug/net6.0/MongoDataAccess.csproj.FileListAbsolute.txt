@@ -1,0 +1,5 @@
+C:\Projetos\Channel\Tools\CRUDMongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.csproj.AssemblyReference.cache
+C:\Projetos\Channel\Tools\CRUDMongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Channel\Tools\CRUDMongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.AssemblyInfoInputs.cache
+C:\Projetos\Channel\Tools\CRUDMongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.AssemblyInfo.cs
+C:\Projetos\Channel\Tools\CRUDMongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.csproj.CoreCompileInputs.cache
